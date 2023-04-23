@@ -17,7 +17,7 @@ except Exception as e:
 print(client)
 
 d = {
-   "name":"prince",
+   "name":"prince1",
    "email":"prince.francis64@gmail.com",
    "surname":"francis"
 }
